@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:latest
+elastic/elasticsearch

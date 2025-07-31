@@ -1,1 +1,1 @@
---platform=linux/arm64 xiaoyaliu/alist
+mcr.microsoft.com/windows:ltsc2022

@@ -1,1 +1,1 @@
- ghcr.io/blueedgetechno/windows11:master
+ ghcr.io/blueedgetechno/windows10:master

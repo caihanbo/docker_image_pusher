@@ -1,1 +1,1 @@
- ghcr.io/blueedgetechno/windows10:master
+mcr.microsoft.com/windows/servercore/gui:ltsc2019

@@ -1,1 +1,1 @@
-mcr.microsoft.com/windows:ltsc2022
+ ghcr.io/blueedgetechno/windows11:master

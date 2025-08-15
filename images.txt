@@ -1,4 +1,4 @@
 dockerhub.kubekey.local/kubesphereio/ks-installer:v3.4.1
 docker.elastic.co/kibana/kibana:7.10.0
 docker.elastic.co/elasticsearch/elasticsearch:7.10.0
-docker.io/rancher/rancher:latest
+rancher/rancher:latest

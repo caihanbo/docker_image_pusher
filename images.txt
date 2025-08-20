@@ -1,1 +1,4 @@
-docker.io/kubesphere/ks-extensions-museum:v1.1.6
+swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/kubesphere/devops-apiserver:v4.1.2
+swr.cn-southwest-2.myhuaweicloud.com/ks/kubesphere/devops-controller:v4.1.2
+swr.cn-southwest-2.myhuaweicloud.com/ks/kubesphere/devops-tools:v4.1.2
+swr.cn-southwest-2.myhuaweicloud.com/ks/kubesphere/devops-jenkins:v4.1.2-2.346.3

@@ -2,3 +2,4 @@ swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/kubesphere/devops-apiserver:v
 swr.cn-southwest-2.myhuaweicloud.com/ks/kubesphere/devops-controller:v4.1.2
 swr.cn-southwest-2.myhuaweicloud.com/ks/kubesphere/devops-tools:v4.1.2
 swr.cn-southwest-2.myhuaweicloud.com/ks/kubesphere/devops-jenkins:v4.1.2-2.346.3
+quay.io/external_storage/nfs-client-provisioner:latest

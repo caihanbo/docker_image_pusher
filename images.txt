@@ -1,1 +1,1 @@
-qihangnet/zai:v1.0.38
+gitlab/gitlab-runner:v16.6.1

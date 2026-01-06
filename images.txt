@@ -1,1 +1,2 @@
 gitlab/gitlab-runner:v16.6.1
+container-registry.oracle.com/database/enterprise:21.3.0.0

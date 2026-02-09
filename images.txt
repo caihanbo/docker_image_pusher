@@ -1,1 +1,1 @@
-liaosnet/gbase8s:v8.8_3513x25_csdk_x64
+dromara/dbswitch:latest

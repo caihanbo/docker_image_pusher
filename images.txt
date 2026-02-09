@@ -1,1 +1,2 @@
-dromara/dbswitch:latest
+mysql:5.7
+inrgihc/dbswitch:1.7.0

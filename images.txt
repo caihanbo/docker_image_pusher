@@ -1,2 +1,1 @@
-mysql:5.7
-inrgihc/dbswitch:1.7.0
+dm8:latest 

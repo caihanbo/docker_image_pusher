@@ -1,1 +1,2 @@
 cnxc/dm8:20251114-kylin
+openclaw/openclaw:latest

@@ -1,1 +1,1 @@
-1panel/openclaw:latest
+boltops/terraspace:latest

@@ -1,1 +1,1 @@
-boltops/terraspace:latest
+netease-youdao/lobsterai:latest

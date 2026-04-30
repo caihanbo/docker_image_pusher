@@ -1,6 +1,4 @@
-mongo:5
-elasticsearch:7.17.23
-graviteeio/apim-gateway:4.6
-graviteeio/apim-rest-api:4.6
-graviteeio/apim-management-ui:4.6
-graviteeio/apim-portal-ui:4.6
+graviteeio/gateway:latest
+graviteeio/management-ui:latest
+graviteeio/management-api:latest
+mongo:latest

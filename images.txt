@@ -1,4 +1,4 @@
-graviteeio/gateway:latest
-graviteeio/management-ui:latest
-graviteeio/management-api:latest
-mongo:latest
+graviteeio/apim-gateway:latest
+graviteeio/apim-management-api:latest
+graviteeio/apim-management-ui:latest
+graviteeio/apim-portal-ui:latest
